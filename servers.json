@@ -2,7 +2,7 @@
   "apps": [
     {
       "pkg": "com.sdev.alphav2ray",
-      "content": "https://raw.githubusercontent.com/username/repo/main/alpha_v2.txt", 
+      "content": "https://raw.githubusercontent.com/mna891/myapp/refs/heads/main/alpha%20v2.txt", 
       "status": "v9.9.9 - Ultra Fast",
       "version": "9.9.9"
     }
