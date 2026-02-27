@@ -8,6 +8,13 @@
       "version": "9.9.8"
     },
     {
+      "name": "UT Loop Pro Server",
+      "pkg": "loop.uchetechs.vpn.pro",
+      "content": "https://raw.githubusercontent.com/mna891/myapp/refs/heads/main/UT%20Loop%20Pro.txt",
+      "status": "v20.6.25 - V App",
+      "version": "46.1"
+    },
+    {
       "name": "24clan VPN Green",
       "pkg": "com.tcodes.green",
       "content": "https://raw.githubusercontent.com/mna891/myapp/refs/heads/main/24%20clans.txt",
