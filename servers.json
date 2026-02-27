@@ -1,14 +1,14 @@
 {
   "apps": [
     {
-      "name": "ALPHA V2RAY",
+      "name": "ALPHA V2RAY Server",
       "pkg": "com.sdev.alphav2ray",
       "content": "https://raw.githubusercontent.com/mna891/myapp/refs/heads/main/alpha%20v2.txt",
       "status": "v9.9.9 - Ultra Fast",
       "version": "9.9.9"
     },
     {
-      "name": "24clan VPN ",
+      "name": "24clan VPN Green",
       "pkg": "com.tcodes.green",
       "content": "https://raw.githubusercontent.com/mna891/myapp/refs/heads/main/24%20clans.txt",
       "status": "v1.4 - High Speed",
