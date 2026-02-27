@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "ALPHA V2RAY ",
+      "name": "ALPHA V2RAY server ",
       "pkg": "com.sdev.alphav2ray",
       "content": "https://raw.githubusercontent.com/mna891/myapp/refs/heads/main/alpha%20v2.txt",
       "status": "v9.9.9 - Ultra Fast",
